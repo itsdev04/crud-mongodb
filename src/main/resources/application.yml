@@ -9,6 +9,11 @@ spring:
       uri: mongodb://localhost:27017
       database: demo
   main:
-    allow-bean-definition-overriding: true      
+    allow-bean-definition-overriding: true  
+
+  security:
+    user:
+      name: dev
+      password: dev
       
       

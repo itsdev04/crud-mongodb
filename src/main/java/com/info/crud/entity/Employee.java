@@ -36,3 +36,10 @@ public class Employee {
 	
 	
 }
+
+/*
+  {
+    "eid": 5,
+    "ename": "Subrat Kumari"
+}
+*/
