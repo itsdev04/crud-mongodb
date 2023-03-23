@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: CRUD-APP
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: demo
+  main:
+    allow-bean-definition-overriding: true      
+      
+      
